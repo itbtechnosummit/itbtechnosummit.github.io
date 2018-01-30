@@ -100,7 +100,7 @@ function downloadCanvas(link, canvasId, filename) {
 }
 
 $('#downloadlink').on('click', '.sweet-alert', function() {
-  downloadCanvas(this, 'imageCanvas', 'SIMFONI-17.jpg');
+  downloadCanvas(this, 'imageCanvas', 'ITBTechnoSummit-18.jpg');
 });
 
 
